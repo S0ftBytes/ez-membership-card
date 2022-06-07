@@ -1,0 +1,21 @@
+{
+    "tesco": {
+        "name":"Tesco Clubcard",
+        "colour":"#25baf5",
+        "codes": {
+            "1": "tesco-clubcard/1.jpg",
+            "2": "tesco-clubcard/2.jpg",
+            "3": "tesco-clubcard/3.jpg",
+            "4": "tesco-clubcard/4.jpg"
+        }
+    },
+    "asda": {
+        "name":"Asda Card",
+        "colour":"#5de004",
+        "codes": {
+            "1": "asda/1.jpg",
+            "2": "asda/1.jpg",
+            "3": "asda/1.jpg"
+        }
+    }
+}
