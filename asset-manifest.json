@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ez-membership-card/static/css/main.e3271ba5.css",
+    "main.js": "/ez-membership-card/static/js/main.f70f13ec.js",
+    "index.html": "/ez-membership-card/index.html",
+    "main.e3271ba5.css.map": "/ez-membership-card/static/css/main.e3271ba5.css.map",
+    "main.f70f13ec.js.map": "/ez-membership-card/static/js/main.f70f13ec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e3271ba5.css",
+    "static/js/main.f70f13ec.js"
+  ]
+}
